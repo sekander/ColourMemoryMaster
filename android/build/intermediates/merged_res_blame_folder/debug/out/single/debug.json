@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.mygdx.game.android-merged_res-15:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.mygdx.game.android-android-16:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mygdx.game.android-merged_res-15:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.mygdx.game.android-pngs-10:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.mygdx.game.android-merged_res-15:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.mygdx.game.android-pngs-10:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.mygdx.game.android-merged_res-15:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.mygdx.game.android-pngs-10:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.mygdx.game.android-merged_res-15:/drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
+        "source": "com.mygdx.game.android-pngs-10:/drawable-anydpi-v21/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.mygdx.game.android-merged_res-15:/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "com.mygdx.game.android-android-16:/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mygdx.game.android-merged_res-15:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.mygdx.game.android-pngs-10:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.mygdx.game.android-merged_res-15:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "com.mygdx.game.android-pngs-10:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.mygdx.game.android-merged_res-15:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.mygdx.game.android-pngs-10:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.mygdx.game.android-merged_res-15:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.mygdx.game.android-android-16:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mygdx.game.android-merged_res-15:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.mygdx.game.android-android-16:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mygdx.game.android-merged_res-15:/drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.mygdx.game.android-android-16:/drawable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mygdx.game.android-merged_res-15:/drawable-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.mygdx.game.android-android-16:/drawable-anydpi-v26/ic_launcher.xml"
+    }
+]
